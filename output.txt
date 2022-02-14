@@ -1,0 +1,234 @@
+Welcome to the data analysis program!
+Please log in with your username and password
+
+Please write your username here: Please write your password here: 
+
+Welcome,  Lifestore 
+
+
+The most sold products were: 
+ID number: 54 // Name: SSD Kingston A400, 120GB, SATA III, 2.5'', 7mm // Sales: 49.
+ID number: 3 // Name: Procesador AMD Ryzen 5 2600, S-AM4, 3.40GHz, Six-Core, 16MB L3 Cache, con Disipador Wraith Stealth // Sales: 42.
+ID number: 5 // Name: Procesador Intel Core i3-9100F, S-1151, 3.60GHz, Quad-Core, 6MB Cache (9na. Generación - Coffee Lake) // Sales: 20.
+ID number: 42 // Name: Tarjeta Madre ASRock Micro ATX B450M Steel Legend, S-AM4, AMD B450, HDMI, 64GB DDR4 para AMD // Sales: 18.
+ID number: 57 // Name: SSD Adata Ultimate SU800, 256GB, SATA III, 2.5'', 7mm // Sales: 15.
+
+
+
+The least sold products by category were: 
+
+
+audifonos: 
+ID number: 86 // Name: ASUS Audífonos Gamer ROG Theta 7.1, Alámbrico, USB C, Negro // Sales: 0.
+ID number: 87 // Name: Acer Audífonos Gamer Galea 300, Alámbrico, 3.5mm, Negro // Sales: 0.
+ID number: 88 // Name: Audífonos Gamer Balam Rush Orphix RGB 7.1, Alámbrico, USB, Negro // Sales: 0.
+ID number: 90 // Name: Energy Sistem Audífonos con Micrófono Headphones 1, Bluetooh, Inalámbrico, Negro/Grafito // Sales: 0.
+ID number: 91 // Name: Genius GHP-400S Audífonos, Alámbrico, 1.5 Metros, Rosa // Sales: 0.
+
+bocinas: 
+ID number: 75 // Name: Lenovo Barra de Sonido, Alámbrico, 2.5W, USB, Negro // Sales: 0.
+ID number: 76 // Name: Acteck Bocina con Subwoofer AXF-290, Bluetooth, Inalámbrico, 2.1, 18W RMS, 180W PMPO, USB, Negro // Sales: 0.
+ID number: 77 // Name: Verbatim Bocina Portátil Mini, Bluetooth, Inalámbrico, 3W RMS, USB, Blanco // Sales: 0.
+ID number: 78 // Name: Ghia Bocina Portátil BX300, Bluetooth, Inalámbrico, 40W RMS, USB, Rojo - Resistente al Agua // Sales: 0.
+ID number: 79 // Name: Naceb Bocina Portátil NA-0301, Bluetooth, Inalámbrico, USB 2.0, Rojo // Sales: 0.
+
+discos duros: 
+ID number: 53 // Name: SSD Addlink Technology S70, 512GB, PCI Express 3.0, M.2 // Sales: 0.
+ID number: 55 // Name: SSD para Servidor Supermicro SSD-DM128-SMCMVN1, 128GB, SATA III, mSATA, 6Gbit/s // Sales: 0.
+ID number: 56 // Name: SSD para Servidor Lenovo Thinksystem S4500, 480GB, SATA III, 3.5'', 7mm // Sales: 0.
+ID number: 58 // Name: SSD para Servidor Lenovo Thinksystem S4510, 480GB, SATA III, 2.5'', 7mm // Sales: 0.
+ID number: 59 // Name: SSD Samsung 860 EVO, 1TB, SATA III, M.2 // Sales: 0.
+
+memorias usb: 
+ID number: 61 // Name: Kit Memoria RAM Corsair Vengeance LPX DDR4, 2400MHz, 32GB, Non-ECC, CL16 // Sales: 0.
+ID number: 60 // Name: Kit Memoria RAM Corsair Dominator Platinum DDR4, 3200MHz, 16GB (2x 8GB), Non-ECC, CL16, XMP // Sales: 1.
+
+pantallas: 
+ID number: 62 // Name: Makena Smart TV LED 32S2 32'', HD, Widescreen, Gris // Sales: 0.
+ID number: 63 // Name: Seiki TV LED SC-39HS950N 38.5, HD, Widescreen, Negro // Sales: 0.
+ID number: 64 // Name: Samsung TV LED LH43QMREBGCXGO 43, 4K Ultra HD, Widescreen, Negro // Sales: 0.
+ID number: 65 // Name: Samsung Smart TV LED UN70RU7100FXZX 70, 4K Ultra HD, Widescreen, Negro // Sales: 0.
+ID number: 68 // Name: Makena Smart TV LED 40S2 40'', Full HD, Widescreen, Negro // Sales: 0.
+
+procesadores: 
+ID number: 9 // Name: Procesador Intel Core i3-8100, S-1151, 3.60GHz, Quad-Core, 6MB Smart Cache (8va. Generación - Coffee Lake) // Sales: 0.
+ID number: 1 // Name: Procesador AMD Ryzen 3 3300X S-AM4, 3.80GHz, Quad-Core, 16MB L2 Cache // Sales: 2.
+ID number: 6 // Name: Procesador Intel Core i9-9900K, S-1151, 3.60GHz, 8-Core, 16MB Smart Cache (9na. Generación Coffee Lake) // Sales: 3.
+ID number: 8 // Name: Procesador Intel Core i5-9600K, S-1151, 3.70GHz, Six-Core, 9MB Smart Cache (9na. Generiación - Coffee Lake) // Sales: 4.
+ID number: 7 // Name: Procesador Intel Core i7-9700K, S-1151, 3.60GHz, 8-Core, 12MB Smart Cache (9na. Generación Coffee Lake) // Sales: 7.
+
+tarjetas de video: 
+ID number: 14 // Name: Tarjeta de Video EVGA NVIDIA GeForce GT 710, 2GB 64-bit GDDR3, PCI Express 2.0 // Sales: 0.
+ID number: 15 // Name: Tarjeta de Video EVGA NVIDIA GeForce GTX 1660 Ti SC Ultra Gaming, 6GB 192-bit GDDR6, PCI 3.0 // Sales: 0.
+ID number: 16 // Name: Tarjeta de Video EVGA NVIDIA GeForce RTX 2060 SC ULTRA Gaming, 6GB 192-bit GDDR6, PCI Express 3.0 // Sales: 0.
+ID number: 17 // Name: Tarjeta de Video Gigabyte AMD Radeon R7 370 OC, 2GB 256-bit GDDR5, PCI Express 3.0 // Sales: 0.
+ID number: 19 // Name: Tarjeta de Video Gigabyte NVIDIA GeForce GTX 1650 OC Low Profile, 4GB 128-bit GDDR5, PCI Express 3.0 x16 // Sales: 0.
+
+tarjetas madre: 
+ID number: 30 // Name: Tarjeta Madre AORUS ATX Z390 ELITE, S-1151, Intel Z390, HDMI, 64GB DDR4 para Intel // Sales: 0.
+ID number: 32 // Name: Tarjeta Madre ASRock Z390 Phantom Gaming 4, S-1151, Intel Z390, HDMI, 64GB DDR4 para Intel  // Sales: 0.
+ID number: 34 // Name: Tarjeta Madre ASUS ATX ROG STRIX B550-F GAMING WI-FI, S-AM4, AMD B550, HDMI, max. 128GB DDR4 para AMD // Sales: 0.
+ID number: 35 // Name: Tarjeta Madre Gigabyte micro ATX Z390 M GAMING, S-1151, Intel Z390, HDMI, 64GB DDR4 para Intel  // Sales: 0.
+ID number: 36 // Name: Tarjeta Madre Gigabyte micro ATX Z490M GAMING X (rev. 1.0), Intel Z490, HDMI, 128GB DDR4 para Intel // Sales: 0.
+
+
+
+The most searched products were: 
+ID number: 54 // Name: SSD Kingston A400, 120GB, SATA III, 2.5'', 7mm // Searches: 263.
+ID number: 57 // Name: SSD Adata Ultimate SU800, 256GB, SATA III, 2.5'', 7mm // Searches: 107.
+ID number: 29 // Name: Tarjeta Madre ASUS micro ATX TUF B450M-PLUS GAMING, S-AM4, AMD B450, HDMI, 64GB DDR4 para AMD // Searches: 60.
+ID number: 3 // Name: Procesador AMD Ryzen 5 2600, S-AM4, 3.40GHz, Six-Core, 16MB L3 Cache, con Disipador Wraith Stealth // Searches: 55.
+ID number: 4 // Name: Procesador AMD Ryzen 3 3200G con Gráficos Radeon Vega 8, S-AM4, 3.60GHz, Quad-Core, 4MB L3, con Disipador Wraith Spire // Searches: 41.
+ID number: 85 // Name: Logitech Audífonos Gamer G635 7.1, Alámbrico, 1.5 Metros, 3.5mm, Negro/Azul // Searches: 35.
+ID number: 67 // Name: TV Monitor LED 24TL520S-PU 24, HD, Widescreen, HDMI, Negro // Searches: 32.
+ID number: 7 // Name: Procesador Intel Core i7-9700K, S-1151, 3.60GHz, 8-Core, 12MB Smart Cache (9na. Generación Coffee Lake) // Searches: 31.
+ID number: 47 // Name: SSD XPG SX8200 Pro, 256GB, PCI Express, M.2 // Searches: 30.
+ID number: 5 // Name: Procesador Intel Core i3-9100F, S-1151, 3.60GHz, Quad-Core, 6MB Cache (9na. Generación - Coffee Lake) // Searches: 30.
+
+
+
+The least searched products by category were: 
+
+
+audifonos: 
+ID number: 86 // Name: ASUS Audífonos Gamer ROG Theta 7.1, Alámbrico, USB C, Negro // Searches: 0.
+ID number: 87 // Name: Acer Audífonos Gamer Galea 300, Alámbrico, 3.5mm, Negro // Searches: 0.
+ID number: 88 // Name: Audífonos Gamer Balam Rush Orphix RGB 7.1, Alámbrico, USB, Negro // Searches: 0.
+ID number: 90 // Name: Energy Sistem Audífonos con Micrófono Headphones 1, Bluetooh, Inalámbrico, Negro/Grafito // Searches: 0.
+ID number: 92 // Name: Getttech Audífonos con Micrófono Sonority, Alámbrico, 1.2 Metros, 3.5mm, Negro/Rosa // Searches: 0.
+ID number: 96 // Name: Klip Xtreme Audífonos Blast, Bluetooth, Inalámbrico, Negro/Verde // Searches: 0.
+ID number: 93 // Name: Ginga Audífonos con Micrófono GI18ADJ01BT-RO, Bluetooth, Alámbrico/Inalámbrico, 3.5mm, Rojo // Searches: 1.
+ID number: 91 // Name: Genius GHP-400S Audífonos, Alámbrico, 1.5 Metros, Rosa // Searches: 2.
+ID number: 95 // Name: Iogear Audífonos Gamer GHG601, Alámbrico, 1.2 Metros, 3.5mm, Negro // Searches: 3.
+ID number: 94 // Name: HyperX Audífonos Gamer Cloud Flight para PC/PS4/PS4 Pro, Inalámbrico, USB, 3.5mm, Negro // Searches: 6.
+
+bocinas: 
+ID number: 75 // Name: Lenovo Barra de Sonido, Alámbrico, 2.5W, USB, Negro // Searches: 0.
+ID number: 77 // Name: Verbatim Bocina Portátil Mini, Bluetooth, Inalámbrico, 3W RMS, USB, Blanco // Searches: 0.
+ID number: 78 // Name: Ghia Bocina Portátil BX300, Bluetooth, Inalámbrico, 40W RMS, USB, Rojo - Resistente al Agua // Searches: 0.
+ID number: 79 // Name: Naceb Bocina Portátil NA-0301, Bluetooth, Inalámbrico, USB 2.0, Rojo // Searches: 0.
+ID number: 81 // Name: Ghia Bocina Portátil BX900, Bluetooth, Inalámbrico, 2.1 Canales, 34W, USB, Negro - Resistente al Agua // Searches: 0.
+ID number: 82 // Name: Ghia Bocina Portátil BX400, Bluetooth, Inalámbrico, 8W RMS, USB, Negro // Searches: 0.
+ID number: 83 // Name: Ghia Bocina Portátil BX500, Bluetooth, Inalámbrico, 10W RMS, USB, Gris // Searches: 0.
+ID number: 80 // Name: Ghia Bocina Portátil BX800, Bluetooth, Inalámbrico, 2.1 Canales, 31W, USB, Negro // Searches: 1.
+ID number: 76 // Name: Acteck Bocina con Subwoofer AXF-290, Bluetooth, Inalámbrico, 2.1, 18W RMS, 180W PMPO, USB, Negro // Searches: 2.
+ID number: 74 // Name: Logitech Bocinas para Computadora con Subwoofer G560, Bluetooth, Inalámbrico, 2.1, 120W RMS, USB, negro // Searches: 6.
+
+discos duros: 
+ID number: 53 // Name: SSD Addlink Technology S70, 512GB, PCI Express 3.0, M.2 // Searches: 0.
+ID number: 55 // Name: SSD para Servidor Supermicro SSD-DM128-SMCMVN1, 128GB, SATA III, mSATA, 6Gbit/s // Searches: 0.
+ID number: 58 // Name: SSD para Servidor Lenovo Thinksystem S4510, 480GB, SATA III, 2.5'', 7mm // Searches: 0.
+ID number: 59 // Name: SSD Samsung 860 EVO, 1TB, SATA III, M.2 // Searches: 1.
+ID number: 56 // Name: SSD para Servidor Lenovo Thinksystem S4500, 480GB, SATA III, 3.5'', 7mm // Searches: 2.
+ID number: 52 // Name: SSD Western Digital WD Blue 3D NAND, 2TB, M.2 // Searches: 5.
+ID number: 50 // Name: SSD Crucial MX500, 1TB, SATA III, M.2 // Searches: 7.
+ID number: 49 // Name: Kit SSD Kingston KC600, 1TB, SATA III, 2.5, 7mm // Searches: 10.
+ID number: 51 // Name: SSD Kingston UV500, 480GB, SATA III, mSATA // Searches: 11.
+ID number: 48 // Name: SSD Kingston A2000 NVMe, 1TB, PCI Express 3.0, M2 // Searches: 27.
+
+memorias usb: 
+ID number: 61 // Name: Kit Memoria RAM Corsair Vengeance LPX DDR4, 2400MHz, 32GB, Non-ECC, CL16 // Searches: 0.
+ID number: 60 // Name: Kit Memoria RAM Corsair Dominator Platinum DDR4, 3200MHz, 16GB (2x 8GB), Non-ECC, CL16, XMP // Searches: 0.
+
+pantallas: 
+ID number: 62 // Name: Makena Smart TV LED 32S2 32'', HD, Widescreen, Gris // Searches: 0.
+ID number: 64 // Name: Samsung TV LED LH43QMREBGCXGO 43, 4K Ultra HD, Widescreen, Negro // Searches: 0.
+ID number: 65 // Name: Samsung Smart TV LED UN70RU7100FXZX 70, 4K Ultra HD, Widescreen, Negro // Searches: 0.
+ID number: 68 // Name: Makena Smart TV LED 40S2 40'', Full HD, Widescreen, Negro // Searches: 0.
+ID number: 69 // Name: Hisense Smart TV LED 40H5500F 39.5, Full HD, Widescreen, Negro // Searches: 0.
+ID number: 71 // Name: Samsung Smart TV LED UN32J4290AF 32, HD, Widescreen, Negro // Searches: 0.
+ID number: 72 // Name: Hisense Smart TV LED 50H8F 49.5, 4K Ultra HD, Widescreen, Negro // Searches: 0.
+ID number: 70 // Name: Samsung Smart TV LED 43, Full HD, Widescreen, Negro // Searches: 1.
+ID number: 63 // Name: Seiki TV LED SC-39HS950N 38.5, HD, Widescreen, Negro // Searches: 4.
+ID number: 73 // Name: Samsung Smart TV LED UN55TU7000FXZX 55, 4K Ultra HD, Widescreen, Negro/Gris // Searches: 4.
+
+procesadores: 
+ID number: 9 // Name: Procesador Intel Core i3-8100, S-1151, 3.60GHz, Quad-Core, 6MB Smart Cache (8va. Generación - Coffee Lake) // Searches: 1.
+ID number: 1 // Name: Procesador AMD Ryzen 3 3300X S-AM4, 3.80GHz, Quad-Core, 16MB L2 Cache // Searches: 10.
+ID number: 6 // Name: Procesador Intel Core i9-9900K, S-1151, 3.60GHz, 8-Core, 16MB Smart Cache (9na. Generación Coffee Lake) // Searches: 10.
+ID number: 8 // Name: Procesador Intel Core i5-9600K, S-1151, 3.70GHz, Six-Core, 9MB Smart Cache (9na. Generiación - Coffee Lake) // Searches: 20.
+ID number: 2 // Name: Procesador AMD Ryzen 5 3600, S-AM4, 3.60GHz, 32MB L3 Cache, con Disipador Wraith Stealth // Searches: 24.
+ID number: 5 // Name: Procesador Intel Core i3-9100F, S-1151, 3.60GHz, Quad-Core, 6MB Cache (9na. Generación - Coffee Lake) // Searches: 30.
+ID number: 7 // Name: Procesador Intel Core i7-9700K, S-1151, 3.60GHz, 8-Core, 12MB Smart Cache (9na. Generación Coffee Lake) // Searches: 31.
+ID number: 4 // Name: Procesador AMD Ryzen 3 3200G con Gráficos Radeon Vega 8, S-AM4, 3.60GHz, Quad-Core, 4MB L3, con Disipador Wraith Spire // Searches: 41.
+ID number: 3 // Name: Procesador AMD Ryzen 5 2600, S-AM4, 3.40GHz, Six-Core, 16MB L3 Cache, con Disipador Wraith Stealth // Searches: 55.
+
+tarjetas de video: 
+ID number: 14 // Name: Tarjeta de Video EVGA NVIDIA GeForce GT 710, 2GB 64-bit GDDR3, PCI Express 2.0 // Searches: 0.
+ID number: 16 // Name: Tarjeta de Video EVGA NVIDIA GeForce RTX 2060 SC ULTRA Gaming, 6GB 192-bit GDDR6, PCI Express 3.0 // Searches: 0.
+ID number: 19 // Name: Tarjeta de Video Gigabyte NVIDIA GeForce GTX 1650 OC Low Profile, 4GB 128-bit GDDR5, PCI Express 3.0 x16 // Searches: 0.
+ID number: 20 // Name: Tarjeta de Video Gigabyte NVIDIA GeForce RTX 2060 SUPER WINDFORCE OC, 8 GB 256 bit GDDR6, PCI Express x16 3.0 // Searches: 0.
+ID number: 23 // Name: Tarjeta de Video MSI Radeon X1550, 128MB 64 bit GDDR2, PCI Express x16 // Searches: 0.
+ID number: 24 // Name: Tarjeta de Video PNY NVIDIA GeForce RTX 2080, 8GB 256-bit GDDR6, PCI Express 3.0  // Searches: 0.
+ID number: 27 // Name: Tarjeta de Video VisionTek AMD Radeon HD5450, 2GB GDDR3, PCI Express x16 // Searches: 1.
+ID number: 10 // Name: MSI GeForce 210, 1GB GDDR3, DVI, VGA, HDCP, PCI Express 2.0 // Searches: 1.
+ID number: 13 // Name: Tarjeta de Video Asus NVIDIA GeForce GTX 1050 Ti Phoenix, 4GB 128-bit GDDR5, PCI Express 3.0 // Searches: 2.
+ID number: 17 // Name: Tarjeta de Video Gigabyte AMD Radeon R7 370 OC, 2GB 256-bit GDDR5, PCI Express 3.0 // Searches: 3.
+
+tarjetas madre: 
+ID number: 30 // Name: Tarjeta Madre AORUS ATX Z390 ELITE, S-1151, Intel Z390, HDMI, 64GB DDR4 para Intel // Searches: 0.
+ID number: 32 // Name: Tarjeta Madre ASRock Z390 Phantom Gaming 4, S-1151, Intel Z390, HDMI, 64GB DDR4 para Intel  // Searches: 0.
+ID number: 34 // Name: Tarjeta Madre ASUS ATX ROG STRIX B550-F GAMING WI-FI, S-AM4, AMD B550, HDMI, max. 128GB DDR4 para AMD // Searches: 0.
+ID number: 36 // Name: Tarjeta Madre Gigabyte micro ATX Z490M GAMING X (rev. 1.0), Intel Z490, HDMI, 128GB DDR4 para Intel // Searches: 0.
+ID number: 37 // Name: Tarjeta Madre ASRock ATX Z490 STEEL LEGEND, S-1200, Intel Z490, HDMI, 128GB DDR4 para Intel // Searches: 0.
+ID number: 38 // Name: Tarjeta Madre Gigabyte Micro ATX H310M DS2 2.0, S-1151, Intel H310, 32GB DDR4 para Intel  // Searches: 0.
+ID number: 41 // Name: Tarjeta Madre ASUS micro ATX Prime H370M-Plus/CSM, S-1151, Intel H370, HDMI, 64GB DDR4 para Intel // Searches: 0.
+ID number: 43 // Name: Tarjeta Madre ASUS ATX ROG STRIX Z390-E GAMING, S-1151, Intel Z390, HDMI, 64GB DDR4 para Intel // Searches: 0.
+ID number: 33 // Name: Tarjeta Madre ASUS ATX PRIME Z390-A, S-1151, Intel Z390, HDMI, 64GB DDR4 para Intel  // Searches: 0.
+ID number: 35 // Name: Tarjeta Madre Gigabyte micro ATX Z390 M GAMING, S-1151, Intel Z390, HDMI, 64GB DDR4 para Intel  // Searches: 1.
+
+
+
+The highest rated products were: 
+ID number: 1 // Name: Procesador AMD Ryzen 3 3300X S-AM4, 3.80GHz, Quad-Core, 16MB L2 Cache // Average score: 5.0.
+ID number: 6 // Name: Procesador Intel Core i9-9900K, S-1151, 3.60GHz, 8-Core, 16MB Smart Cache (9na. Generación Coffee Lake) // Average score: 5.0.
+ID number: 7 // Name: Procesador Intel Core i7-9700K, S-1151, 3.60GHz, 8-Core, 12MB Smart Cache (9na. Generación Coffee Lake) // Average score: 5.0.
+ID number: 8 // Name: Procesador Intel Core i5-9600K, S-1151, 3.70GHz, Six-Core, 9MB Smart Cache (9na. Generiación - Coffee Lake) // Average score: 5.0.
+ID number: 11 // Name: Tarjeta de Video ASUS AMD Radeon RX 570, 4GB 256-bit GDDR5, PCI Express 3.0 // Average score: 5.0.
+
+
+
+The lowest rated products were: 
+ID number: 17 // Name: Tarjeta de Video Gigabyte AMD Radeon R7 370 OC, 2GB 256-bit GDDR5, PCI Express 3.0 // Average score: 1.0.
+ID number: 45 // Name: Tarjeta Madre ASRock ATX H110 Pro BTC+, S-1151, Intel H110, 32GB DDR4, para Intel // Average score: 1.0.
+ID number: 31 // Name: Tarjeta Madre AORUS micro ATX B450 AORUS M (rev. 1.0), S-AM4, AMD B450, HDMI, 64GB DDR4 para AMD // Average score: 1.84.
+ID number: 46 // Name: Tarjeta Madre Gigabyte micro ATX GA-H110M-DS2, S-1151, Intel H110, 32GB DDR4 para Intel // Average score: 2.0.
+ID number: 89 // Name: Cougar Audífonos Gamer Phontum Essential, Alámbrico, 1.9 Metros, 3.5mm, Negro. // Average score: 3.0.
+
+
+
+The sum of money obtained in the month 01 was: 117738
+The sum of money obtained in the month 02 was: 107270
+The sum of money obtained in the month 03 was: 162931
+The sum of money obtained in the month 04 was: 191066
+The sum of money obtained in the month 05 was: 91936
+The sum of money obtained in the month 06 was: 36949
+The sum of money obtained in the month 07 was: 26949
+The sum of money obtained in the month 08 was: 3077
+
+
+
+The average number of sales per month was: 34.25
+
+
+The total sum of money throughout the year was: 737916
+
+
+The months with the most ammount of sales were :
+Month :04 // Number of sales: 74
+Month :01 // Number of sales: 52
+Month :03 // Number of sales: 49
+Month :02 // Number of sales: 40
+Month :05 // Number of sales: 34
+
+
+
+The months with the most ammount of money earned were :
+Month :04 // Ammount of money: 191066
+Month :03 // Ammount of money: 162931
+Month :01 // Ammount of money: 117738
+Month :02 // Ammount of money: 107270
+Month :05 // Ammount of money: 91936
+
+
+
